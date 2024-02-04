@@ -1,0 +1,11 @@
+User_ID,User_Name,User_Age,User_Gender,User_Height_cm,User_Weight_Kg,NFC_ID
+1,User_1,88,Male,156.25,56.53,19c50d99-b22a-455e-9420-dbdc6ccd7623
+2,User_2,50,Male,152.47,78.12,05bfb6c6-2252-4209-8e58-3e06b00c1c68
+3,User_3,63,Female,150.97,63.32,774b9e1e-b666-4ad9-8520-9d68d6a0ed2f
+4,User_4,59,Male,181.41,89.76,ff9d6787-b67c-4ee0-be06-f7de94baf416
+5,User_5,78,Female,162.78,81.79,3cd9f993-0aaf-41ec-bff2-309b1a9c1b31
+6,User_6,72,Female,175.92,57.78,91e2db21-5704-45f9-af3d-74ea59f92bea
+7,User_7,50,Male,185.12,51.5,4cbc9edf-b24f-4511-8a64-63f418b7b8f1
+8,User_8,58,Male,185.78,51.17,9576133c-f67a-4d38-b8cf-5461582f2ddd
+9,User_9,65,Male,164.98,56.54,1fb631e3-1f79-4fd4-81b1-89b89282a3c5
+10,User_10,62,Female,158.94,77.36,2abe368d-5092-4449-b4e0-88c3659efeda

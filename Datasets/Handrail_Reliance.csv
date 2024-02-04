@@ -1,0 +1,11 @@
+User_ID,User_Name,Timestamp,Activation_Duration_sec,Frequently_Used_Side,Handrail_Pressure,Grip_Type,Hand_Orientation,Reliance_Category
+1,User_1,2023-12-24 00:00:00,34.34142867585746,Right,8.668090197068675,Full Grip,Vertical,Moderate Support
+2,User_2,2023-12-24 00:05:00,76.40214436792388,Left,11.084844859190754,Fingertips,Vertical,High Support
+3,User_3,2023-12-24 00:10:00,60.43555775223257,Right,15.495128632644757,Full Grip,Vertical,High Support
+4,User_4,2023-12-24 00:15:00,50.702069346383674,Right,13.638900372842315,Fingertips,Vertical,Moderate Support
+5,User_5,2023-12-24 00:20:00,18.38936075229787,Right,10.824582803960839,Full Grip,Vertical,Low Support
+6,User_6,2023-12-24 00:25:00,18.387599984542796,Right,17.237057894447588,Fingertips,Horizontal,Low Support
+7,User_7,2023-12-24 00:30:00,11.24010368827856,Right,7.789877213040837,Fingertips,Horizontal,Low Support
+8,User_8,2023-12-24 00:35:00,70.23085864157026,Right,10.842892970704362,Full Grip,Vertical,High Support
+9,User_9,2023-12-24 00:40:00,50.88139585725424,Right,12.327236865873834,Full Grip,Horizontal,Moderate Support
+10,User_10,2023-12-24 00:45:00,58.68929817911132,Right,14.12139968434072,Full Grip,Horizontal,Moderate Support
