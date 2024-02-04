@@ -1,4 +1,4 @@
-# SIT-723-Research-Training-and-Project
+# Research Project: Iot Framework for the Early Detection of Gait Disorders in the Elderly.
 
 ## Overview
 Welcome to the repository for my Master's research project conducted under the guidance of Professor Anuroop Gaddam for the Masters of Applied Artificial Intelligence degree at Deakin University. This research is centered around leveraging state-of-the-art sensor technologies to facilitate early detection and in-depth analysis of gait disorders in the elderly population.
